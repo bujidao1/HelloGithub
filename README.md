@@ -1,6 +1,6 @@
 # HelloGithub
 
 ## Hello World!
-Tks to MS
+Tks to AS
 
 Thank you
